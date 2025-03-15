@@ -1,4 +1,4 @@
-# 国内 ChatGPT-4中文版镜像网站整理【镜像网站合集】（2025/03/13）
+# 国内 ChatGPT-4中文版镜像网站整理【镜像网站合集】（2025/03/16）
 
 为方便使用，我整理了一些国内可用的 ChatGPT 镜像网站。每个网站都有优劣之处，大家可以根据需求选择使用。
 
@@ -18,7 +18,7 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指将原始官网的内容复制并�
 
 | 网站地址 | 特色与支持功能 |
 |----------|------------------------------------------------|
-| [songshugpt.com](https://songshugpt.com/) | 2023年3月上线，稳定运行，支持 GPT-4、GPT-4.0 及 GPT-3.5，支持 MJ 绘画。 |
+| [songshugpt.com](https://songshugpt.com/) | 2023年3月上线，稳定运行，支持 GPT-4、GPT-4.0 及 GPT-3.5、GPT-o1、GPT-o3、Deepseek、Grok3，支持 MJ 绘画。 |
 | [gptdog.online](https://gptdog.online) | 运营近2年，支持 GPT-4、GPT-4.0 及 GPT-3.5，提供 AI 文件、AI PPT、AI 助手、AI 插件、思维导图等功能。 |
 | [gptcat.cc](https://gptcat.cc/) | 运营超过1年，支持 GPT-4、GPT-4.0，支持 AI 绘画（Midjourney 和 DALL·E）。 |
 | [ai.panda.xyz](https://ai.panda.xyz) | 支持 GPT-4、GPT-4.0，使用简单便捷。 |
